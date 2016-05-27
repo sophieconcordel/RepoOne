@@ -1,90 +1,81 @@
 body{
-	background-color:#555555;
-}
-h1{
-	text-align:center;
-	padding:30px:
-}
-#pen{
-  border-radius: 100px;
-  margin:90px;
-	box-shadow:15px 15px 15px #03100F;
+color: blue;
+background-color: pink;
 }
 
-#pup{
-  border-radius: 100px;
-  margin:90px;
-	box-shadow:15px 15px 15px #03100F;
+#headText{
+color: black;
+text-align: center;
+
 }
+
 #wrapperDiv{
-	background-color:#03100F;
-	width:1100px;
-	height:900px;
-	position:relative;
-	margin:auto;
-	border:solid black 3px;
-	box-shadow:15px 15px 15px #03100F;
+width: 700px;
+height: 1300px;
+background-color: black;
+margin: auto;
 }
 
 #headerDiv{
-   background-color:#EEEEEE;
-	width:1100px;
-	height:100px;
-	position:relative;
-   }
+width: 700px;
+height: 100px;
+border: solid black 3px;
+background-color: hotpink;
+margin: auto;
+}
 #navDiv{
-   background-color:#020202;
-	width:1100px;
-	height:38px;
-	position:relative;
-
-   }
-
+width: 700px;
+height: 40px;
+border: solid black 3px;
+background-color: black;
+margin: auto;
+}
 #bodyDiv{
-   background-color:#555;
-	width:1100px;
-	height:750px;
-   }
-
-#testDiv{
-	background-color:#CCEEFF;
-	Width:260px;
-	height:195px;
-	position:relative;
-	left:120px;
-	top:40px;
-
+width: 700px;
+height: 1060px;
+border: solid black 3px;
+background-color: silver;
+margin: auto;
+}
+#footerDiv{
+width: 700px;
+height: 100px;
+background-color: hotpink;
+border: solid black 3px;
+margin: auto;
 }
 
-img.floatRight{
-    border-radius:380px;
-	width:280px;
-	}
-
-div.floatLeft{
-
-	background-color:#03100F;
-	float:left;
-	margin:20px;
+#paragraphText{
+  font-size: 20px;
+  text-align: center;
 }
 
-.floatLeft{
-    border-radius:180px;
-	float:left;
-	margin:20px;
+#pTextTwo{
+  font-size: 20px;
+  text-align: center;
+  color:#660066;
+  font-weight: bold;
 }
-
-.floatRight{
-	float:right;
-	margin:20px;
+#travelText{
+  font-size: 30px;
+  text-align: center;
+  color: #660066;
 }
 .buttonDiv{
-    background-color:#EEEEEE;
-	width:140px;
-	height:30px;
+width: 60px;
+height: 10px;
+background-color: white;
+margin: 5px;
+padding: 12px;
+margin-left:40px;
+float: left;
+text-align: center;
+color: #cc00cc;
+font-weight: bold;
+}
+.bodyP{
+color: black;
+text-align: center;
 
-	float:left;
-	margin-top:4px;
-	margin-left:65px;
 
-   }
+}
